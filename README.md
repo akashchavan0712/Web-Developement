@@ -56,7 +56,7 @@ master
 ### $ git commit –m "Some commit message"
 ### $ git checkout master
 Switched to branch 'master'
-### $ git merge new-
+### $ git merge new- "name of branch"
 
 --------------------------------------------------------------------------------------------
 
