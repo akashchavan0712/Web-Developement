@@ -31,6 +31,7 @@
 ### 4) Go To Github.com and Create a repository
 ### 5) Go To Your Local Directory and simply Run The Following Commands
 ### 7) git init
+### 8) git add .
 ### 8) git commit -m "first commit"
 ### 9) git branch -M main
 ### 10) git remote add origin "Your Github HTTPS link i.e shown when your create repository"
