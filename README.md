@@ -33,7 +33,7 @@
 ### 7) git init
 ### 8) git commit -m "first commit"
 ### 9) git branch -M main
-### 10) git remote add origin https://github.com/akashchavan0712/getCommands.git
+### 10) git remote add origin "Your Github HTTPS link i.e shown when your create repository"
 ### 11) git push -u origin main
 
 ### For Creating Branches
